@@ -1,0 +1,212 @@
+[
+        {
+                "name": "DP_1",
+                "dn1_start": 80011000,
+                "pt1": "Site1_PT",
+                "e164_mask": "1215478XXXX",
+                "emask": "1215478XXXX"
+        },
+        {
+                "name": "DP_2",
+                "dn1_start": 80021000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_3",
+                "dn1_start": 80031000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": "1983668XXXX"
+        },
+        {
+                "name": "DP_4",
+                "dn1_start": 80041000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_5",
+                "dn1_start": 80051000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_6",
+                "dn1_start": 80061000,
+                "pt1": "Global_PT",
+                "e164_mask": "+1913663XXXX",
+                "emask": null
+        },
+        {
+                "name": "DP_7",
+                "dn1_start": 80071000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_8",
+                "dn1_start": 80081000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_9",
+                "dn1_start": 80091000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_10",
+                "dn1_start": 80101000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_11",
+                "dn1_start": 80111000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_12",
+                "dn1_start": 80121000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_13",
+                "dn1_start": 80131000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_14",
+                "dn1_start": 80141000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_15",
+                "dn1_start": 80151000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_16",
+                "dn1_start": 80161000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_17",
+                "dn1_start": 80171000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_18",
+                "dn1_start": 80181000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_19",
+                "dn1_start": 80191000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_20",
+                "dn1_start": 80201000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_21",
+                "dn1_start": 80211000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_22",
+                "dn1_start": 80221000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_23",
+                "dn1_start": 80231000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_24",
+                "dn1_start": 80241000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_25",
+                "dn1_start": 80541000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_26",
+                "dn1_start": 80522000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_27",
+                "dn1_start": 80541000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_28",
+                "dn1_start": 80541000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_29",
+                "dn1_start": 80522000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        },
+        {
+                "name": "DP_30",
+                "dn1_start": 80522000,
+                "pt1": "Global_PT",
+                "e164_mask": null,
+                "emask": null
+        }
+]
